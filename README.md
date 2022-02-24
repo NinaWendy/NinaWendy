@@ -1,7 +1,9 @@
-<img src="https://user-images.githubusercontent.com/98152860/154256516-77d3f4e6-35f4-4b6d-a59d-6ad42c90ba55.png" width="300" height="300"/>
+
+<img src="https://user-images.githubusercontent.com/98152860/155490425-0121cd40-1e5c-42b1-8c62-3fb432c8314d.jpeg" width="1000" height="350"/>
+
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Wendy Nina, a software developer.
+My name is Wendy Nina, a developer in the making.
 
 I am an energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with.
 
