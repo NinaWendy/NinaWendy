@@ -8,7 +8,7 @@ My name is Wendy Nina, a developer in the making.
 I am an energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with.
 
 - 👀 I’m interested in cyber security ,database and android programming.
-- 🌱 I’m currently learning android programming with Kotlin.
+- 🌱 I’m currently learning to a web developer.
 - 📫 How to reach me: LinkedIn; https://ww.linkedIn.com/in/wendy-nina-616559196
                       
 
