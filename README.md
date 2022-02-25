@@ -9,7 +9,7 @@ I am an energetic, ambitious person who has developed a mature and responsible a
 
 - 👀 I’m interested in cyber security ,database and android programming.
 - 🌱 I’m currently learning web development.
-- 📫 How to reach me: LinkedIn; https://ww.linkedIn.com/in/wendy-nina-616559196
+<!-- - 📫 How to reach me: LinkedIn; https://ww.linkedIn.com/in/wendy-nina-616559196 -->
                       
 
 ## &#x1f4c8; GitHub Stats
