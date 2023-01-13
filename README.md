@@ -3,12 +3,12 @@
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Wendy Nina, a software engineer and QA Tester.
+My name is Wendy Nina, a devops engineer in the making.
 
-I am an energetic, ambitious person who has developed a mature and responsible approach to any task that I undertake, or situation that I am presented with.
+I am a highly motivated and experienced developer with a strong background in software engineering and QA. I am currently in the process of transitioning into a DevOps role, where I aim to utilize my skills in automation and infrastructure management to improve the overall efficiency and reliability of software delivery. With a keen eye for design and an ability to think outside the box, I am confident in my ability to bring value to any organization as a DevOps Engineer. I am always looking for new challenges and opportunities to grow and learn in the field, and I am excited to take the next step in my career with a company that values innovation and collaboration.
 
-- 👀 I’m interested in QA testing,UI/UX and android.
-- 🌱 I’m currently learning product design.
+- 👀 I’m interested in devops, java, android, testing and UI/UX .
+- 🌱 I’m currently learning devops.
 <!-- - 📫 How to reach me: LinkedIn; https://ww.linkedIn.com/in/wendy-nina-616559196 -->
                       
 
